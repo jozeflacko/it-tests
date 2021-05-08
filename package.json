@@ -9,7 +9,10 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "dependencies": {    
+  },
+  "devDependencies": {
+    "oracledb": "^5.1.0",
     "cypress": "^7.0.1"
   }
 }

@@ -1,3 +1,11 @@
 {
-    "chromeWebSecurity": false
+    "chromeWebSecurity": false,
+    "nodeVersion": "system",
+    "env": {
+      "db": {
+          "user": "sysTest",
+          "password": "test1234",
+          "connectString" : "localhost:1521/myDB"
+      }
+    }
 }
